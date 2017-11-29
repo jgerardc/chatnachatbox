@@ -127,7 +127,7 @@ document.write( '            <ul id=\"messages\"></ul>\n' );
 document.write( '            <div id=\"message-box\">\n' );
 document.write( '                <div class=\"msj-rta macro\" style=\"margin:auto\">                        \n' );
 document.write( '                    <div class=\"text text-l\" style=\"background:white\">\n' );
-document.write( '                       <textarea class=\"mytext\" placeholder=\"Type a message\">\n' );
+document.write( '                       <textarea class=\"mytext\" placeholder=\"Type a message\"></textarea>\n' );
 document.write( '                    </div> \n' );
 document.write( '                </div>\n' );
 document.write( '            </div>\n' );
